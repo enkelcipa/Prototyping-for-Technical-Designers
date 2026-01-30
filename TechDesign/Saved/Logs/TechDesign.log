@@ -5330,3 +5330,5 @@ Script Stack (0 frames) :
 [2026.01.30-15.45.24:233][884]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
 [2026.01.30-15.45.28:008][884]LogExit: Editor shut down
 [2026.01.30-15.45.28:358][884]LogExit: Transaction tracking system shut down
+[2026.01.30-15.45.48:039][884]LogExit: Object subsystem successfully closed.
+[2026.01.30-15.45.48:114][884]LogShaderCompilers: Display: Shaders left to compile 0
