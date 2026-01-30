@@ -1712,3 +1712,11 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.30-18.59.18:725][791]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
 [2026.01.30-18.59.18:725][791]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B125CE125-4FF3-5E72-F49A-03A2908D6B9F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=91f8db0e4fb3e249b9bb8196751169d3%7Cadd8ae9ba7654a348050c27b146ad428%7Ca485e3a4-c65d-4f8d-aa66-50514c3338d2&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
 [2026.01.30-18.59.22:757][791]LogEOSSDK: Warning: LogHttp: Abandoning 2 canceled HTTP requests because the HTTP thread appears to be dead
+[2026.01.30-18.59.29:845][791]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.01.30-18.59.29:846][791]LogXGEController: Cleaning working directory: C:/Users/enkel/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.01.30-18.59.29:849][791]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.01.30-18.59.29:849][791]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.01.30-18.59.29:849][791]LogPakFile: Destroying PakPlatformFile
+[2026.01.30-18.59.30:149][791]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.01.30-18.59.30:175][791]LogExit: Exiting.
+[2026.01.30-18.59.30:212][791]Log file closed, 01/30/26 18:59:30
