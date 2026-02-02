@@ -5905,3 +5905,4 @@ Script Stack (0 frames) :
 [2026.02.02-15.41.13:857][366]LogChaosDD: Chaos Debug Draw Shutdown
 [2026.02.02-15.41.13:950][366]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
 [2026.02.02-15.41.13:954][366]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4EA45F32-4628-3843-E78B-47AFD4619773%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=91f8db0e4fb3e249b9bb8196751169d3%7Cadd8ae9ba7654a348050c27b146ad428%7Ca485e3a4-c65d-4f8d-aa66-50514c3338d2&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.02.02-15.41.18:176][366]LogEOSSDK: Warning: LogHttp: Abandoning 2 canceled HTTP requests because the HTTP thread appears to be dead
